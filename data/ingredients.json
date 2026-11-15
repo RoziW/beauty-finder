@@ -1,0 +1,887 @@
+[
+ {
+  "id": "ha",
+  "type": "humectant",
+  "uses": [
+   "hydration"
+  ],
+  "aka": "Sodium Hyaluronate",
+  "name": {
+   "en": "Hyaluronic Acid",
+   "ckb": "هایالۆرۆنیک ئەسید",
+   "kmr": "Asîda Hyaluronîk",
+   "ar": "حمض الهيالورونيك"
+  },
+  "desc": {
+   "en": "A humectant: it attracts water and helps hold it in the upper layers of the skin.",
+   "ckb": "شێهێنەرێکە: ئاو بۆ خۆی ڕادەکێشێت و یارمەتی دەدات لە چینەکانی سەرەوەی پێستدا بمێنێتەوە.",
+   "kmr": "Şilker e: avê dikişîne û dibe alîkar ku di qatên jorîn ên çerm de bimîne.",
+   "ar": "مادة مرطِّبة تجذب الماء وتساعد على الاحتفاظ به في الطبقات العليا من البشرة."
+  },
+  "benefits": {
+   "en": "Often used to help skin feel hydrated, plump and smooth.",
+   "ckb": "زۆرجار بەکاردێت بۆ ئەوەی پێست هەست بە شێداری، پڕی و لووسی بکات.",
+   "kmr": "Gelek caran tê bikaranîn da ku çerm şil, tijî û nerm were hîskirin.",
+   "ar": "يُستخدم غالباً ليمنح البشرة إحساساً بالترطيب والامتلاء والنعومة."
+  },
+  "precautions": {
+   "en": "Generally well tolerated. In very dry air it tends to work best when followed by a moisturizer.",
+   "ckb": "بە گشتی پێست باش لەگەڵی دەگونجێت. لە هەوای زۆر وشکدا باشترە دوای ئەو شێدارکەرەوەیەک بەکاربهێنرێت.",
+   "kmr": "Bi giştî çerm baş pê re li hev tê. Di hewaya pir hişk de çêtir e ku piştî wê şilkerek were bikaranîn.",
+   "ar": "يتحمّله معظم الناس جيداً. في الأجواء شديدة الجفاف يُفضَّل وضع مرطّب بعده."
+  }
+ },
+ {
+  "id": "niacinamide",
+  "type": "vitamin",
+  "uses": [
+   "barrier",
+   "pores",
+   "brightening"
+  ],
+  "aka": "Vitamin B3",
+  "name": {
+   "en": "Niacinamide",
+   "ckb": "نیاسینامید",
+   "kmr": "Niyasînamîd",
+   "ar": "نياسيناميد"
+  },
+  "desc": {
+   "en": "A form of vitamin B3 found in many serums and moisturizers.",
+   "ckb": "جۆرێکە لە ڤیتامین B3 کە لە زۆر سێرۆم و شێدارکەرەوەدا هەیە.",
+   "kmr": "Cureyekî vîtamîn B3 ye ku di gelek serum û şilkeran de heye.",
+   "ar": "شكل من فيتامين B3 يوجد في كثير من السيرومات والمرطّبات."
+  },
+  "benefits": {
+   "en": "Commonly used to support the skin barrier and improve the look of uneven tone and visible pores.",
+   "ckb": "بە گشتی بەکاردێت بۆ پشتگیریی بەربەستی پێست و باشترکردنی دیمەنی ڕەنگی ناڕێک و کونیلە دیارەکان.",
+   "kmr": "Bi gelemperî ji bo piştgiriya astenga çerm û baştirkirina xuyanga rengê nelihev û kunên xuya tê bikaranîn.",
+   "ar": "يُستخدم عادةً لدعم حاجز البشرة وتحسين مظهر التفاوت في اللون والمسام الظاهرة."
+  },
+  "precautions": {
+   "en": "Usually well tolerated; higher concentrations can cause flushing or tingling for some people.",
+   "ckb": "زۆربەی کات کێشەی نییە؛ ڕێژەی بەرز لەوانەیە لای هەندێک کەس ببێتە هۆی سووربوونەوە یان گزگزە.",
+   "kmr": "Piranî pirsgirêk çênake; rêjeyên bilind dikarin li cem hin kesan bibin sedema sorbûn an xurîniyê.",
+   "ar": "يتحمّله معظم الناس؛ التراكيز العالية قد تسبّب احمراراً أو وخزاً لدى البعض."
+  }
+ },
+ {
+  "id": "vitc",
+  "type": "vitamin",
+  "uses": [
+   "brightening",
+   "antioxidant"
+  ],
+  "aka": "Ascorbic Acid",
+  "name": {
+   "en": "Vitamin C",
+   "ckb": "ڤیتامین سی",
+   "kmr": "Vîtamîn C",
+   "ar": "فيتامين سي"
+  },
+  "desc": {
+   "en": "An antioxidant used in brightening serums. It comes in several forms with different stability.",
+   "ckb": "دژەئۆکسانێکە کە لە سێرۆمی ڕووناککەرەوەدا بەکاردێت. چەند جۆرێکی هەیە کە جێگیرییان جیاوازە.",
+   "kmr": "Antîoksîdanek e ku di serumên ronîker de tê bikaranîn. Çend cureyên wê hene ku aramiya wan cuda ye.",
+   "ar": "مضاد أكسدة يُستخدم في سيرومات التفتيح، وله أشكال عدّة تختلف في ثباتها."
+  },
+  "benefits": {
+   "en": "Used to help skin look brighter and more even, and to complement sunscreen.",
+   "ckb": "بەکاردێت بۆ ئەوەی پێست ڕووناکتر و یەکڕەنگتر دەربکەوێت، و وەک تەواوکەری دژەخۆر.",
+   "kmr": "Tê bikaranîn da ku çerm ronîtir û yekrengtir xuya bike, û wekî temamkerê parastina rojê.",
+   "ar": "يُستخدم ليبدو لون البشرة أكثر إشراقاً وتجانساً، ومكمّلاً لواقي الشمس."
+  },
+  "precautions": {
+   "en": "Can sting on sensitive skin, and some forms lose strength when exposed to light and air.",
+   "ckb": "لەوانەیە پێستی هەستیار بسووتێنێتەوە، و هەندێک جۆری بە ڕووناکی و هەوا کاریگەرییان کەم دەبێتەوە.",
+   "kmr": "Dikare çermê hestiyar bişewitîne, û hin cureyên wê bi ronahî û hewayê hêza xwe winda dikin.",
+   "ar": "قد يسبّب وخزاً للبشرة الحساسة، وبعض أشكاله يفقد فعاليته عند التعرّض للضوء والهواء."
+  }
+ },
+ {
+  "id": "retinol",
+  "type": "vitamin",
+  "uses": [
+   "texture"
+  ],
+  "aka": "Vitamin A",
+  "name": {
+   "en": "Retinol",
+   "ckb": "ڕێتینۆڵ",
+   "kmr": "Retînol",
+   "ar": "ريتينول"
+  },
+  "desc": {
+   "en": "A vitamin A derivative used mostly in night-time products.",
+   "ckb": "بەرهەمێکی ڤیتامین A یە کە زیاتر لە بەرهەمەکانی شەودا بەکاردێت.",
+   "kmr": "Berhemeke vîtamîn A ye ku bêtir di berhemên şevê de tê bikaranîn.",
+   "ar": "مشتق من فيتامين A يُستخدم غالباً في مستحضرات الليل."
+  },
+  "benefits": {
+   "en": "Commonly used to improve the look of fine lines and uneven texture over time.",
+   "ckb": "بە گشتی بەکاردێت بۆ باشترکردنی دیمەنی هێڵە وردەکان و تێکستچەری ناڕێک بە تێپەڕبوونی کات.",
+   "kmr": "Bi gelemperî ji bo baştirkirina xuyanga xêzên zirav û tekstûra nelihev bi demê re tê bikaranîn.",
+   "ar": "يُستخدم عادةً لتحسين مظهر الخطوط الدقيقة وملمس البشرة غير المتجانس مع الوقت."
+  },
+  "precautions": {
+   "en": "May cause dryness or irritation at first, so start slowly and wear sunscreen by day. It is commonly advised to avoid it during pregnancy; ask a healthcare professional.",
+   "ckb": "لە سەرەتادا لەوانەیە وشکی یان هەوکردن دروست بکات، بۆیە بە هێواشی دەست پێبکە و بە ڕۆژ دژەخۆر بەکاربهێنە. بە گشتی ئامۆژگاری دەکرێت لە کاتی دووگیانیدا بەکارنەهێنرێت؛ لە پسپۆڕێکی تەندروستی بپرسە.",
+   "kmr": "Di destpêkê de dikare bibe sedema hişkî an acizbûnê, ji ber vê yekê hêdî dest pê bike û bi roj parastina rojê bi kar bîne. Bi gelemperî tê şîretkirin ku di dema ducaniyê de neyê bikaranîn; ji pisporekî tenduristiyê bipirse.",
+   "ar": "قد يسبّب جفافاً أو تهيّجاً في البداية، لذا ابدئي تدريجياً واستخدمي واقي الشمس نهاراً. يُنصح عادةً بتجنّبه أثناء الحمل؛ استشيري مختصاً صحياً."
+  }
+ },
+ {
+  "id": "salicylic",
+  "type": "exfoliant",
+  "uses": [
+   "pores",
+   "texture"
+  ],
+  "aka": "BHA",
+  "name": {
+   "en": "Salicylic Acid",
+   "ckb": "سالیسیلیک ئەسید",
+   "kmr": "Asîda Salîsîlîk",
+   "ar": "حمض الساليسيليك"
+  },
+  "desc": {
+   "en": "An oil-soluble exfoliating acid (BHA) that can work inside pores.",
+   "ckb": "ئەسیدێکی توێکڵکەرەوەیە (BHA) کە لە چەوریدا دەتوێتەوە و دەتوانێت لەناو کونیلەکاندا کار بکات.",
+   "kmr": "Asîdeke qalikker e (BHA) ku di rûn de dihele û dikare di hundirê kunan de bixebite.",
+   "ar": "حمض مقشِّر (BHA) يذوب في الزيوت ويمكنه العمل داخل المسام."
+  },
+  "benefits": {
+   "en": "Often used to help with clogged pores and oily-feeling skin.",
+   "ckb": "زۆرجار بەکاردێت بۆ کونیلە گیراوەکان و پێستی چەور.",
+   "kmr": "Gelek caran ji bo kunên girtî û çermê rûnî tê bikaranîn.",
+   "ar": "يُستخدم غالباً للمسام المسدودة والبشرة الدهنية."
+  },
+  "precautions": {
+   "en": "Can be drying if overused; introduce it gradually and wear sunscreen.",
+   "ckb": "ئەگەر زۆر بەکاربهێنرێت پێست وشک دەکات؛ وردە وردە دەستی پێبکە و دژەخۆر بەکاربهێنە.",
+   "kmr": "Heke zêde were bikaranîn çerm hişk dike; gav bi gav dest pê bike û parastina rojê bi kar bîne.",
+   "ar": "قد يسبّب الجفاف عند الإفراط في استخدامه؛ أدخليه تدريجياً واستخدمي واقي الشمس."
+  }
+ },
+ {
+  "id": "ceramides",
+  "type": "lipid",
+  "uses": [
+   "barrier",
+   "hydration"
+  ],
+  "aka": "Ceramide NP",
+  "name": {
+   "en": "Ceramides",
+   "ckb": "سێرامایدەکان",
+   "kmr": "Seramîd",
+   "ar": "السيراميدات"
+  },
+  "desc": {
+   "en": "Lipids that occur naturally in the skin's outer layer.",
+   "ckb": "چەورین کە بە شێوەیەکی سروشتی لە چینی دەرەوەی پێستدا هەن.",
+   "kmr": "Lîpîd in ku bi awayekî xwezayî di qata derve ya çerm de hene.",
+   "ar": "دهون موجودة طبيعياً في الطبقة الخارجية من البشرة."
+  },
+  "benefits": {
+   "en": "Used in moisturizers to support the skin barrier and ease the feeling of dryness.",
+   "ckb": "لە شێدارکەرەوەکاندا بەکاردێن بۆ پشتگیریی بەربەستی پێست و کەمکردنەوەی هەستی وشکی.",
+   "kmr": "Di şilkeran de ji bo piştgiriya astenga çerm û kêmkirina hesta hişkiyê tên bikaranîn.",
+   "ar": "تُستخدم في المرطّبات لدعم حاجز البشرة وتخفيف الإحساس بالجفاف."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; how rich it feels depends on the formula.",
+   "ckb": "بە گشتی کێشەی نییە؛ قورسی و سووکییەکەی بەندە بە فۆرمولاکەوە.",
+   "kmr": "Bi giştî pirsgirêk çênake; giranî an sivikiya wê bi formulê ve girêdayî ye.",
+   "ar": "يتحمّلها معظم الناس؛ ومدى ثقلها يعتمد على التركيبة."
+  }
+ },
+ {
+  "id": "glycerin",
+  "type": "humectant",
+  "uses": [
+   "hydration",
+   "hair"
+  ],
+  "aka": "Glycerol",
+  "name": {
+   "en": "Glycerin",
+   "ckb": "گلیسرین",
+   "kmr": "Glîserîn",
+   "ar": "الجلسرين"
+  },
+  "desc": {
+   "en": "One of the most common humectants in cosmetics; it draws water to the skin.",
+   "ckb": "یەکێکە لە باوترین شێهێنەرەکان لە بەرهەمە جوانکارییەکاندا؛ ئاو بۆ پێست ڕادەکێشێت.",
+   "kmr": "Yek ji şilkerên herî berbelav ên kozmetîkê ye; avê ber bi çerm ve dikişîne.",
+   "ar": "من أكثر المرطِّبات شيوعاً في مستحضرات التجميل؛ يجذب الماء إلى البشرة."
+  },
+  "benefits": {
+   "en": "Helps skin and hair feel soft and hydrated.",
+   "ckb": "یارمەتی دەدات پێست و قژ نەرم و شێدار بن.",
+   "kmr": "Dibe alîkar ku çerm û por nerm û şil bin.",
+   "ar": "يساعد على منح البشرة والشعر نعومة وترطيباً."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; very high amounts can feel sticky.",
+   "ckb": "بە گشتی کێشەی نییە؛ بڕی زۆر لەوانەیە لینج بێت.",
+   "kmr": "Bi giştî pirsgirêk çênake; mîqdarên pir zêde dikarin zeliqok bin.",
+   "ar": "يتحمّله معظم الناس؛ الكميات الكبيرة قد تترك ملمساً لزجاً."
+  }
+ },
+ {
+  "id": "squalane",
+  "type": "emollient",
+  "uses": [
+   "hydration"
+  ],
+  "aka": "Squalane Oil",
+  "name": {
+   "en": "Squalane",
+   "ckb": "سکوالان",
+   "kmr": "Skualan",
+   "ar": "السكوالان"
+  },
+  "desc": {
+   "en": "A lightweight, stable oil similar to lipids found in the skin's own sebum.",
+   "ckb": "ڕۆنێکی سووک و جێگیرە، لە چەورییە سروشتییەکانی پێست دەچێت.",
+   "kmr": "Rûnekî sivik û aram e, dişibe rûnên xwezayî yên çerm.",
+   "ar": "زيت خفيف وثابت يشبه الدهون الموجودة في زهم البشرة الطبيعي."
+  },
+  "benefits": {
+   "en": "Softens skin and helps seal in moisture without a heavy feel.",
+   "ckb": "پێست نەرم دەکات و یارمەتی دەدات شێ بپارێزرێت بەبێ هەستی قورسی.",
+   "kmr": "Çerm nerm dike û dibe alîkar ku şilî were parastin bêyî hesta giraniyê.",
+   "ar": "ينعّم البشرة ويساعد على حبس الرطوبة دون ملمس ثقيل."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; whether it suits you depends on the full formula.",
+   "ckb": "بە گشتی کێشەی نییە؛ گونجانی بەندە بە تەواوی فۆرمولاکەوە.",
+   "kmr": "Bi giştî pirsgirêk çênake; guncawbûna wê bi tevahiya formulê ve girêdayî ye.",
+   "ar": "يتحمّله معظم الناس؛ ومدى ملاءمته يعتمد على التركيبة كاملة."
+  }
+ },
+ {
+  "id": "shea",
+  "type": "emollient",
+  "uses": [
+   "hydration",
+   "hair"
+  ],
+  "aka": "Butyrospermum Parkii Butter",
+  "name": {
+   "en": "Shea Butter",
+   "ckb": "کەرەی شیا",
+   "kmr": "Rûnê Şeayê",
+   "ar": "زبدة الشيا"
+  },
+  "desc": {
+   "en": "A rich plant butter made from the nuts of the shea tree.",
+   "ckb": "کەرەیەکی ڕووەکیی دەوڵەمەندە کە لە ناوکی داری شیا دروست دەکرێت.",
+   "kmr": "Rûnekî riwekî yê dewlemend e ku ji gûzên dara şeayê tê çêkirin.",
+   "ar": "زبدة نباتية غنية تُستخرج من ثمار شجرة الشيا."
+  },
+  "benefits": {
+   "en": "Softens and conditions dry skin, lips and hair.",
+   "ckb": "پێست، لێو و قژی وشک نەرم دەکات و دەیانبوژێنێتەوە.",
+   "kmr": "Çerm, lêv û porê hişk nerm dike û xwedî dike.",
+   "ar": "تنعّم وتغذّي البشرة والشفاه والشعر الجاف."
+  },
+  "precautions": {
+   "en": "Feels rich and may be too heavy for some. If you have a tree nut allergy, you may wish to check with a doctor.",
+   "ckb": "قورسە و لەوانەیە بۆ هەندێک کەس زۆر بێت. ئەگەر هەستیاریت بە گوێز و ناوک هەیە، باشترە لە پزیشک بپرسیت.",
+   "kmr": "Giran e û dibe ku ji bo hin kesan zêde be. Heke alerjiya te ya gûzan hebe, çêtir e ku ji bijîşk bipirsî.",
+   "ar": "قوامها غني وقد تكون ثقيلة على البعض. إذا كانت لديك حساسية من المكسّرات فمن الأفضل استشارة الطبيب."
+  }
+ },
+ {
+  "id": "zinc",
+  "type": "uvfilter",
+  "uses": [
+   "sun"
+  ],
+  "aka": "Mineral UV filter",
+  "name": {
+   "en": "Zinc Oxide",
+   "ckb": "زینک ئۆکساید",
+   "kmr": "Oksîda Zînkê",
+   "ar": "أكسيد الزنك"
+  },
+  "desc": {
+   "en": "A mineral UV filter used in sunscreens and some makeup.",
+   "ckb": "فلتەرێکی کانزایی تیشکی سەروو وەنەوشەییە کە لە دژەخۆر و هەندێک مکیاژدا بەکاردێت.",
+   "kmr": "Fîltreyeke mîneral a tîrêjên UV ye ku di kremên rojê û hin makyajan de tê bikaranîn.",
+   "ar": "فلتر معدني للأشعة فوق البنفسجية يُستخدم في واقيات الشمس وبعض المكياج."
+  },
+  "benefits": {
+   "en": "Helps protect skin from UVA and UVB rays as part of a sunscreen.",
+   "ckb": "وەک بەشێک لە دژەخۆر یارمەتی پاراستنی پێست دەدات لە تیشکی UVA و UVB.",
+   "kmr": "Wekî beşek ji krema rojê dibe alîkar ku çerm ji tîrêjên UVA û UVB were parastin.",
+   "ar": "يساعد على حماية البشرة من أشعة UVA و UVB كجزء من واقي الشمس."
+  },
+  "precautions": {
+   "en": "Can leave a white cast on some skin tones. Protection depends on the product's tested SPF and on how much you apply.",
+   "ckb": "لەوانەیە لەسەر هەندێک ڕەنگی پێست سپییەک بەجێ بهێڵێت. پاراستن بەندە بە SPF ی تاقیکراوەی بەرهەمەکە و بڕی بەکارهێنان.",
+   "kmr": "Dikare li ser hin rengên çerm spîtiyekê bihêle. Parastin bi SPF ya ceribandî ya berhemê û mîqdara bikaranînê ve girêdayî ye.",
+   "ar": "قد يترك أثراً أبيض على بعض ألوان البشرة. الحماية تعتمد على عامل SPF المختبَر للمنتج وعلى الكمية المستخدمة."
+  }
+ },
+ {
+  "id": "aloe",
+  "type": "botanical",
+  "uses": [
+   "soothing",
+   "hydration"
+  ],
+  "aka": "Aloe Barbadensis Leaf Juice",
+  "name": {
+   "en": "Aloe Vera",
+   "ckb": "ئەلۆڤێرا",
+   "kmr": "Aloe Vera",
+   "ar": "الصبّار (ألوفيرا)"
+  },
+  "desc": {
+   "en": "A gel-like extract from the leaves of the aloe plant.",
+   "ckb": "دەرهێنراوێکی جێلییە لە گەڵای ڕووەکی ئەلۆڤێرا.",
+   "kmr": "Jêgirtiyeke wekî jelê ye ji pelên riweka aloe.",
+   "ar": "مستخلص هلامي من أوراق نبات الصبّار."
+  },
+  "benefits": {
+   "en": "Often used for a light, cooling and soothing feel.",
+   "ckb": "زۆرجار بەکاردێت بۆ هەستێکی سووک، فێنک و ئارامکەرەوە.",
+   "kmr": "Gelek caran ji bo hesteke sivik, hênik û aramker tê bikaranîn.",
+   "ar": "يُستخدم غالباً لإحساس خفيف ومنعش ومهدّئ."
+  },
+  "precautions": {
+   "en": "Usually gentle, though plant extracts can cause reactions in some people.",
+   "ckb": "زۆربەی کات نەرمە، بەڵام دەرهێنراوە ڕووەکییەکان لەوانەیە لای هەندێک کەس کاردانەوە دروست بکەن.",
+   "kmr": "Piranî nerm e, lê jêgirtiyên riwekî dikarin li cem hin kesan reaksiyonê çêbikin.",
+   "ar": "لطيف في العادة، لكن المستخلصات النباتية قد تسبّب تفاعلات لدى البعض."
+  }
+ },
+ {
+  "id": "argan",
+  "type": "emollient",
+  "uses": [
+   "hair",
+   "hydration"
+  ],
+  "aka": "Argania Spinosa Kernel Oil",
+  "name": {
+   "en": "Argan Oil",
+   "ckb": "ڕۆنی ئارگان",
+   "kmr": "Rûnê Arganê",
+   "ar": "زيت الأرغان"
+  },
+  "desc": {
+   "en": "A plant oil pressed from the kernels of the argan tree.",
+   "ckb": "ڕۆنێکی ڕووەکییە کە لە ناوکی داری ئارگان دەگوشرێت.",
+   "kmr": "Rûnekî riwekî ye ku ji dendikên dara arganê tê guvaştin.",
+   "ar": "زيت نباتي يُعصر من لبّ ثمار شجرة الأرغان."
+  },
+  "benefits": {
+   "en": "Used to add softness and shine to hair and to condition skin.",
+   "ckb": "بەکاردێت بۆ بەخشینی نەرمی و بریقە بە قژ و بوژاندنەوەی پێست.",
+   "kmr": "Ji bo dayîna nermî û biriqînê bi por û xwedîkirina çerm tê bikaranîn.",
+   "ar": "يُستخدم لإضفاء النعومة واللمعان على الشعر ولتغذية البشرة."
+  },
+  "precautions": {
+   "en": "Can weigh down fine hair if you use too much.",
+   "ckb": "ئەگەر زۆر بەکاربهێنرێت قژی باریک قورس دەکات.",
+   "kmr": "Heke zêde were bikaranîn porê zirav giran dike.",
+   "ar": "قد يُثقل الشعر الناعم إذا استُخدم بكثرة."
+  }
+ },
+ {
+  "id": "panthenol",
+  "type": "humectant",
+  "uses": [
+   "hydration",
+   "soothing",
+   "hair"
+  ],
+  "aka": "Provitamin B5",
+  "name": {
+   "en": "Panthenol",
+   "ckb": "پانتینۆڵ",
+   "kmr": "Pantenol",
+   "ar": "البانثينول"
+  },
+  "desc": {
+   "en": "A provitamin of B5 that attracts and holds moisture.",
+   "ckb": "پرۆڤیتامینی B5 ە کە شێ ڕادەکێشێت و دەیپارێزێت.",
+   "kmr": "Provîtamîna B5 e ku şiliyê dikişîne û diparêze.",
+   "ar": "طليعة فيتامين B5 التي تجذب الرطوبة وتحتفظ بها."
+  },
+  "benefits": {
+   "en": "Used to help skin feel soothed and hair feel smoother and more flexible.",
+   "ckb": "بەکاردێت بۆ ئارامکردنەوەی پێست و لووستر و نەرمترکردنی قژ.",
+   "kmr": "Ji bo aramkirina çerm û nermtir û lûstirkirina por tê bikaranîn.",
+   "ar": "يُستخدم لتهدئة البشرة وجعل الشعر أكثر نعومة وليونة."
+  },
+  "precautions": {
+   "en": "Generally well tolerated.",
+   "ckb": "بە گشتی کێشەی نییە.",
+   "kmr": "Bi giştî pirsgirêk çênake.",
+   "ar": "يتحمّله معظم الناس جيداً."
+  }
+ },
+ {
+  "id": "vite",
+  "type": "vitamin",
+  "uses": [
+   "antioxidant",
+   "hydration"
+  ],
+  "aka": "Tocopherol",
+  "name": {
+   "en": "Vitamin E",
+   "ckb": "ڤیتامین ئی",
+   "kmr": "Vîtamîn E",
+   "ar": "فيتامين إي"
+  },
+  "desc": {
+   "en": "An antioxidant that also helps keep the oils in a formula stable.",
+   "ckb": "دژەئۆکسانێکە کە یارمەتیی جێگیرمانەوەی ڕۆنەکانی ناو فۆرمولاکەش دەدات.",
+   "kmr": "Antîoksîdanek e ku di heman demê de dibe alîkar ku rûnên di formulê de aram bimînin.",
+   "ar": "مضاد أكسدة يساعد أيضاً على ثبات الزيوت في التركيبة."
+  },
+  "benefits": {
+   "en": "Conditions skin and is often paired with vitamin C.",
+   "ckb": "پێست دەبوژێنێتەوە و زۆرجار لەگەڵ ڤیتامین سی بەکاردێت.",
+   "kmr": "Çerm xwedî dike û gelek caran bi vîtamîn C re tê bikaranîn.",
+   "ar": "يغذّي البشرة ويُستخدم كثيراً مع فيتامين سي."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; rich formulas may not suit everyone.",
+   "ckb": "بە گشتی کێشەی نییە؛ فۆرمولا قورسەکان لەوانەیە بۆ هەمووان نەگونجێن.",
+   "kmr": "Bi giştî pirsgirêk çênake; formulên giran dibe ku ji bo her kesî ne guncaw bin.",
+   "ar": "يتحمّله معظم الناس؛ التركيبات الغنية قد لا تناسب الجميع."
+  }
+ },
+ {
+  "id": "centella",
+  "type": "botanical",
+  "uses": [
+   "soothing",
+   "barrier"
+  ],
+  "aka": "Cica, Tiger Grass",
+  "name": {
+   "en": "Centella Asiatica",
+   "ckb": "سێنتێلا ئاسیاتیکا",
+   "kmr": "Centella Asiatica",
+   "ar": "سنتيلا آسياتيكا"
+  },
+  "desc": {
+   "en": "A plant extract also known as cica or tiger grass.",
+   "ckb": "دەرهێنراوێکی ڕووەکییە کە بە «سیکا»ش ناسراوە.",
+   "kmr": "Jêgirtiyeke riwekî ye ku wekî «cica» jî tê naskirin.",
+   "ar": "مستخلص نباتي يُعرف أيضاً باسم «سيكا» أو عشبة النمر."
+  },
+  "benefits": {
+   "en": "Commonly used in products meant to feel calming on stressed skin.",
+   "ckb": "بە گشتی لەو بەرهەمانەدا بەکاردێت کە بۆ ئارامکردنەوەی پێستی ماندوو دروست کراون.",
+   "kmr": "Bi gelemperî di berhemên ku ji bo aramkirina çermê westiyayî hatine çêkirin de tê bikaranîn.",
+   "ar": "يُستخدم عادةً في المستحضرات المخصّصة لتهدئة البشرة المُجهَدة."
+  },
+  "precautions": {
+   "en": "Usually gentle, though plant extracts can cause reactions in some people.",
+   "ckb": "زۆربەی کات نەرمە، بەڵام دەرهێنراوە ڕووەکییەکان لەوانەیە لای هەندێک کەس کاردانەوە دروست بکەن.",
+   "kmr": "Piranî nerm e, lê jêgirtiyên riwekî dikarin li cem hin kesan reaksiyonê çêbikin.",
+   "ar": "لطيف في العادة، لكن المستخلصات النباتية قد تسبّب تفاعلات لدى البعض."
+  }
+ },
+ {
+  "id": "fragrance",
+  "type": "scent",
+  "uses": [
+   "scent"
+  ],
+  "aka": "Parfum",
+  "name": {
+   "en": "Fragrance",
+   "ckb": "بۆن",
+   "kmr": "Bêhn",
+   "ar": "العطر"
+  },
+  "desc": {
+   "en": "A blend of scent ingredients that gives a product its smell.",
+   "ckb": "تێکەڵەیەکە لە پێکهاتە بۆندارەکان کە بۆن بە بەرهەمەکە دەدات.",
+   "kmr": "Têkeliyek ji pêkhateyên bêhndar e ku bêhnê dide berhemê.",
+   "ar": "مزيج من المكوّنات العطرية يمنح المنتج رائحته."
+  },
+  "benefits": {
+   "en": "Makes a product more pleasant to use; in perfumes it is the main purpose.",
+   "ckb": "بەکارهێنانی بەرهەمەکە خۆشتر دەکات؛ لە بۆنەکاندا ئامانجی سەرەکییە.",
+   "kmr": "Bikaranîna berhemê xweştir dike; di parfûman de armanca sereke ye.",
+   "ar": "يجعل استخدام المنتج أكثر متعة؛ وهو الغرض الأساسي في العطور."
+  },
+  "precautions": {
+   "en": "One of the more common causes of skin sensitivity; fragrance-free options exist if your skin reacts.",
+   "ckb": "یەکێکە لە هۆکارە باوەکانی هەستیاریی پێست؛ ئەگەر پێستت کاردانەوەی هەبێت، بەرهەمی بێ بۆن هەن.",
+   "kmr": "Yek ji sedemên berbelav ên hestiyariya çerm e; heke çermê te reaksiyonê nîşan bide, berhemên bê bêhn hene.",
+   "ar": "من الأسباب الشائعة لتحسّس البشرة؛ تتوفّر خيارات خالية من العطور إذا كانت بشرتك تتفاعل معه."
+  }
+ },
+ {
+  "id": "aha",
+  "type": "exfoliant",
+  "uses": [
+   "texture",
+   "brightening"
+  ],
+  "aka": "Glycolic Acid, Lactic Acid",
+  "name": {
+   "en": "AHAs (Glycolic & Lactic Acid)",
+   "ckb": "AHA (گلایکۆلیک و لاکتیک ئەسید)",
+   "kmr": "AHA (Asîda Glîkolîk û Laktîk)",
+   "ar": "أحماض ألفا هيدروكسي (الجليكوليك واللاكتيك)"
+  },
+  "desc": {
+   "en": "Water-soluble exfoliating acids that loosen dead cells on the skin's surface.",
+   "ckb": "ئەسیدی توێکڵکەرەوەن کە لە ئاودا دەتوێنەوە و خانە مردووەکانی ڕووی پێست شل دەکەنەوە.",
+   "kmr": "Asîdên qalikker in ku di avê de dihelin û şaneyên mirî yên rûyê çerm sist dikin.",
+   "ar": "أحماض مقشِّرة تذوب في الماء وتفكّ الخلايا الميتة عن سطح البشرة."
+  },
+  "benefits": {
+   "en": "Used for a smoother, brighter-looking surface.",
+   "ckb": "بەکاردێن بۆ ڕوویەکی لووستر و ڕووناکتر.",
+   "kmr": "Ji bo rûyekî lûstir û ronîtir tên bikaranîn.",
+   "ar": "تُستخدم لسطح يبدو أنعم وأكثر إشراقاً."
+  },
+  "precautions": {
+   "en": "Can sting and make skin more sensitive to the sun; start slowly and wear sunscreen.",
+   "ckb": "لەوانەیە بسووتێننەوە و پێست بەرامبەر خۆر هەستیارتر بکەن؛ بە هێواشی دەست پێبکە و دژەخۆر بەکاربهێنە.",
+   "kmr": "Dikarin bişewitînin û çerm li hember rojê hestiyartir bikin; hêdî dest pê bike û parastina rojê bi kar bîne.",
+   "ar": "قد تسبّب وخزاً وتزيد حساسية البشرة للشمس؛ ابدئي تدريجياً واستخدمي واقي الشمس."
+  }
+ },
+ {
+  "id": "titanium",
+  "type": "mineral",
+  "uses": [
+   "sun",
+   "color"
+  ],
+  "aka": "CI 77891",
+  "name": {
+   "en": "Titanium Dioxide",
+   "ckb": "تیتانیۆم دایئۆکساید",
+   "kmr": "Dîoksîda Tîtanyûmê",
+   "ar": "ثاني أكسيد التيتانيوم"
+  },
+  "desc": {
+   "en": "A white mineral used as a pigment in makeup and as a UV filter in sunscreens.",
+   "ckb": "کانزایەکی سپییە کە وەک ڕەنگ لە مکیاژدا و وەک فلتەری UV لە دژەخۆردا بەکاردێت.",
+   "kmr": "Mîneraleke spî ye ku wekî reng di makyajê de û wekî fîltreya UV di kremên rojê de tê bikaranîn.",
+   "ar": "معدن أبيض يُستخدم صبغةً في المكياج وفلتراً للأشعة فوق البنفسجية في واقيات الشمس."
+  },
+  "benefits": {
+   "en": "Gives coverage and opacity, and helps filter UV light in sun products.",
+   "ckb": "داپۆشین و تۆخی دەدات، و لە بەرهەمەکانی خۆردا یارمەتی فلتەرکردنی تیشکی UV دەدات.",
+   "kmr": "Nixumandin û tarîtiyê dide, û di berhemên rojê de dibe alîkar ku tîrêjên UV werin fîltrekirin.",
+   "ar": "يمنح تغطية وعتامة، ويساعد على حجب الأشعة فوق البنفسجية في منتجات الشمس."
+  },
+  "precautions": {
+   "en": "Can leave a white cast; sun protection depends on the product's tested SPF.",
+   "ckb": "لەوانەیە سپییەک بەجێ بهێڵێت؛ پاراستن لە خۆر بەندە بە SPF ی تاقیکراوەی بەرهەمەکە.",
+   "kmr": "Dikare spîtiyekê bihêle; parastina ji rojê bi SPF ya ceribandî ya berhemê ve girêdayî ye.",
+   "ar": "قد يترك أثراً أبيض؛ والحماية من الشمس تعتمد على عامل SPF المختبَر للمنتج."
+  }
+ },
+ {
+  "id": "jojoba",
+  "type": "emollient",
+  "uses": [
+   "hydration",
+   "hair"
+  ],
+  "aka": "Simmondsia Chinensis Seed Oil",
+  "name": {
+   "en": "Jojoba Oil",
+   "ckb": "ڕۆنی جۆجۆبا",
+   "kmr": "Rûnê Jojobayê",
+   "ar": "زيت الجوجوبا"
+  },
+  "desc": {
+   "en": "A liquid plant wax from jojoba seeds that feels like a light oil.",
+   "ckb": "مۆمێکی ڕووەکیی شلە لە تۆوی جۆجۆبا کە وەک ڕۆنێکی سووک هەست دەکرێت.",
+   "kmr": "Mûmeke riwekî ya şil e ji tovên jojobayê ku wekî rûnekî sivik tê hîskirin.",
+   "ar": "شمع نباتي سائل من بذور الجوجوبا ملمسه كزيت خفيف."
+  },
+  "benefits": {
+   "en": "Softens skin and hair without a heavy feel.",
+   "ckb": "پێست و قژ نەرم دەکات بەبێ هەستی قورسی.",
+   "kmr": "Çerm û por nerm dike bêyî hesta giraniyê.",
+   "ar": "ينعّم البشرة والشعر دون ملمس ثقيل."
+  },
+  "precautions": {
+   "en": "Generally well tolerated.",
+   "ckb": "بە گشتی کێشەی نییە.",
+   "kmr": "Bi giştî pirsgirêk çênake.",
+   "ar": "يتحمّله معظم الناس جيداً."
+  }
+ },
+ {
+  "id": "castor",
+  "type": "emollient",
+  "uses": [
+   "hydration",
+   "hair"
+  ],
+  "aka": "Ricinus Communis Seed Oil",
+  "name": {
+   "en": "Castor Oil",
+   "ckb": "ڕۆنی گەرچەک",
+   "kmr": "Rûnê Gerçekê",
+   "ar": "زيت الخروع"
+  },
+  "desc": {
+   "en": "A thick plant oil, very common in lipsticks, balms and hair products.",
+   "ckb": "ڕۆنێکی ڕووەکیی خەستە، لە سووراو، بەڵم و بەرهەمەکانی قژدا زۆر باوە.",
+   "kmr": "Rûnekî riwekî yê stûr e, di lêvsor, balm û berhemên por de pir berbelav e.",
+   "ar": "زيت نباتي كثيف شائع جداً في أحمر الشفاه والبلسم ومنتجات الشعر."
+  },
+  "benefits": {
+   "en": "Adds shine and slip, and helps pigments spread evenly.",
+   "ckb": "بریقە و خلیسکی دەدات، و یارمەتی دەدات ڕەنگەکان بە یەکسانی بڵاو ببنەوە.",
+   "kmr": "Biriqîn û şemitînê dide, û dibe alîkar ku reng bi yeksanî belav bibin.",
+   "ar": "يمنح لمعاناً وانزلاقاً، ويساعد على توزيع الصبغات بالتساوي."
+  },
+  "precautions": {
+   "en": "Feels heavy on its own; some people find it irritating on lips or eyelids.",
+   "ckb": "بە تەنیا قورسە؛ هەندێک کەس لەسەر لێو یان پێڵووی چاو هەوکردنی پێ دەبێت.",
+   "kmr": "Bi serê xwe giran e; hin kes li ser lêv an palikên çavan pê aciz dibin.",
+   "ar": "ثقيل بمفرده؛ وقد يسبّب تهيّجاً للشفاه أو الجفون لدى البعض."
+  }
+ },
+ {
+  "id": "coconut",
+  "type": "emollient",
+  "uses": [
+   "hydration",
+   "hair"
+  ],
+  "aka": "Cocos Nucifera Oil",
+  "name": {
+   "en": "Coconut Oil",
+   "ckb": "ڕۆنی گوێزی هیندی",
+   "kmr": "Rûnê Gûza Hindî",
+   "ar": "زيت جوز الهند"
+  },
+  "desc": {
+   "en": "A rich oil pressed from coconut flesh, solid at cool room temperature.",
+   "ckb": "ڕۆنێکی دەوڵەمەندە کە لە گۆشتی گوێزی هیندی دەگوشرێت و لە پلەی ساردی ژووردا دەبەستێت.",
+   "kmr": "Rûnekî dewlemend e ku ji goştê gûza hindî tê guvaştin û di germahiya sar a odeyê de hişk dibe.",
+   "ar": "زيت غني يُعصر من لبّ جوز الهند ويتجمّد في حرارة الغرفة الباردة."
+  },
+  "benefits": {
+   "en": "Conditions hair and softens very dry skin.",
+   "ckb": "قژ دەبوژێنێتەوە و پێستی زۆر وشک نەرم دەکات.",
+   "kmr": "Por xwedî dike û çermê pir hişk nerm dike.",
+   "ar": "يغذّي الشعر وينعّم البشرة شديدة الجفاف."
+  },
+  "precautions": {
+   "en": "Can feel greasy and may clog pores on the face for some people.",
+   "ckb": "لەوانەیە چەور بێت و لای هەندێک کەس کونیلەکانی دەموچاو بگرێت.",
+   "kmr": "Dikare rûnî be û li cem hin kesan kunên rû bigire.",
+   "ar": "قد يكون دهنياً وقد يسدّ مسام الوجه لدى البعض."
+  }
+ },
+ {
+  "id": "caffeine",
+  "type": "active",
+  "uses": [
+   "soothing",
+   "antioxidant"
+  ],
+  "aka": "Caffeine",
+  "name": {
+   "en": "Caffeine",
+   "ckb": "کافایین",
+   "kmr": "Kafeîn",
+   "ar": "الكافيين"
+  },
+  "desc": {
+   "en": "The same compound found in coffee and tea, used mostly in eye-area products.",
+   "ckb": "هەمان ئەو ماددەیەی لە قاوە و چادا هەیە، زیاتر لە بەرهەمەکانی دەوروبەری چاودا بەکاردێت.",
+   "kmr": "Heman madeya ku di qehwe û çayê de heye, bêtir di berhemên derdora çavan de tê bikaranîn.",
+   "ar": "المركّب نفسه الموجود في القهوة والشاي، ويُستخدم غالباً في مستحضرات منطقة العين."
+  },
+  "benefits": {
+   "en": "Often included for a fresher, less puffy look around the eyes.",
+   "ckb": "زۆرجار بۆ دیمەنێکی تازەتر و کەمتر ئاوساو لە دەوری چاو زیاد دەکرێت.",
+   "kmr": "Gelek caran ji bo xuyangeke tezetir û kêmtir werimî li derdora çavan tê zêdekirin.",
+   "ar": "يُضاف غالباً لمظهر أكثر انتعاشاً وأقل انتفاخاً حول العينين."
+  },
+  "precautions": {
+   "en": "Effects are usually temporary; generally well tolerated.",
+   "ckb": "کاریگەرییەکانی زۆرجار کاتین؛ بە گشتی کێشەی نییە.",
+   "kmr": "Bandorên wê piranî demkî ne; bi giştî pirsgirêk çênake.",
+   "ar": "تأثيره مؤقت في العادة؛ ويتحمّله معظم الناس جيداً."
+  }
+ },
+ {
+  "id": "peptides",
+  "type": "protein",
+  "uses": [
+   "texture",
+   "barrier"
+  ],
+  "aka": "Palmitoyl Tripeptide, Acetyl Hexapeptide",
+  "name": {
+   "en": "Peptides",
+   "ckb": "پێپتایدەکان",
+   "kmr": "Peptîd",
+   "ar": "الببتيدات"
+  },
+  "desc": {
+   "en": "Short chains of amino acids, the building blocks of proteins.",
+   "ckb": "زنجیرەی کورتی ئەمینۆ ئەسیدن، کە بەردی بناغەی پرۆتینەکانن.",
+   "kmr": "Zincîrên kurt ên asîdên amînî ne, ku kevirên bingehîn ên proteînan in.",
+   "ar": "سلاسل قصيرة من الأحماض الأمينية، وهي اللبنات الأساسية للبروتينات."
+  },
+  "benefits": {
+   "en": "Used in products aimed at firmer, smoother-looking skin.",
+   "ckb": "لەو بەرهەمانەدا بەکاردێن کە بۆ پێستێکی توندتر و لووستر دروست کراون.",
+   "kmr": "Di berhemên ku ji bo çermekî hişktir û lûstir hatine çêkirin de tên bikaranîn.",
+   "ar": "تُستخدم في المستحضرات الموجَّهة لبشرة تبدو أكثر شدّاً ونعومة."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; results vary a lot by type and formula.",
+   "ckb": "بە گشتی کێشەیان نییە؛ ئەنجامەکان بەپێی جۆر و فۆرمولا زۆر دەگۆڕێن.",
+   "kmr": "Bi giştî pirsgirêk çênakin; encam li gorî cure û formulê pir diguherin.",
+   "ar": "يتحمّلها معظم الناس؛ والنتائج تختلف كثيراً بحسب النوع والتركيبة."
+  }
+ },
+ {
+  "id": "dimethicone",
+  "type": "silicone",
+  "uses": [
+   "texture",
+   "hair"
+  ],
+  "aka": "Silicone",
+  "name": {
+   "en": "Dimethicone",
+   "ckb": "دایمێتیکۆن",
+   "kmr": "Dîmetîkon",
+   "ar": "الدايميثيكون"
+  },
+  "desc": {
+   "en": "A silicone that gives products a silky, smooth glide.",
+   "ckb": "سیلیکۆنێکە کە خلیسکییەکی ئاوریشمی و لووس بە بەرهەمەکان دەدات.",
+   "kmr": "Sîlîkonek e ku şemitîneke hevrîşimî û lûs dide berheman.",
+   "ar": "سيليكون يمنح المستحضرات انزلاقاً حريرياً ناعماً."
+  },
+  "benefits": {
+   "en": "Smooths the feel of skin and hair and helps makeup spread and last.",
+   "ckb": "هەستی پێست و قژ لووس دەکات و یارمەتی دەدات مکیاژ بڵاو ببێتەوە و بمێنێتەوە.",
+   "kmr": "Hesta çerm û por lûs dike û dibe alîkar ku makyaj belav bibe û bimîne.",
+   "ar": "ينعّم ملمس البشرة والشعر ويساعد المكياج على التوزّع والثبات."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; can build up on hair without regular washing.",
+   "ckb": "بە گشتی کێشەی نییە؛ بەبێ شۆردنی بەردەوام لەوانەیە لەسەر قژ کۆببێتەوە.",
+   "kmr": "Bi giştî pirsgirêk çênake; bêyî şûştina birêkûpêk dikare li ser por kom bibe.",
+   "ar": "يتحمّله معظم الناس؛ وقد يتراكم على الشعر دون غسل منتظم."
+  }
+ },
+ {
+  "id": "mica",
+  "type": "mineral",
+  "uses": [
+   "color"
+  ],
+  "aka": "CI 77019",
+  "name": {
+   "en": "Mica",
+   "ckb": "مایکا",
+   "kmr": "Mîka",
+   "ar": "الميكا"
+  },
+  "desc": {
+   "en": "A mineral ground into fine, light-reflecting particles.",
+   "ckb": "کانزایەکە کە دەهاڕدرێت بۆ دەنکی وردی ڕووناکی دەرەوە.",
+   "kmr": "Mîneralek e ku tê hêran û dibe perçeyên hûr ên ku ronahiyê vedigerînin.",
+   "ar": "معدن يُطحن إلى جزيئات دقيقة عاكسة للضوء."
+  },
+  "benefits": {
+   "en": "Adds shimmer, glow and color to makeup.",
+   "ckb": "بریقە، درەوشانەوە و ڕەنگ بە مکیاژ دەدات.",
+   "kmr": "Biriqîn, şewq û reng dide makyajê.",
+   "ar": "يضيف بريقاً وتوهّجاً ولوناً إلى المكياج."
+  },
+  "precautions": {
+   "en": "Generally well tolerated; loose powders are best not inhaled.",
+   "ckb": "بە گشتی کێشەی نییە؛ باشترە پاودەری شل هەڵنەمژرێت.",
+   "kmr": "Bi giştî pirsgirêk çênake; çêtir e ku tozên belav neyên kişandin.",
+   "ar": "يتحمّله معظم الناس؛ ويُفضَّل عدم استنشاق البودرة السائبة."
+  }
+ },
+ {
+  "id": "beeswax",
+  "type": "wax",
+  "uses": [
+   "texture"
+  ],
+  "aka": "Cera Alba",
+  "name": {
+   "en": "Beeswax",
+   "ckb": "مۆمی هەنگ",
+   "kmr": "Mûma Mêşan",
+   "ar": "شمع العسل"
+  },
+  "desc": {
+   "en": "A natural wax made by bees, used to give products structure.",
+   "ckb": "مۆمێکی سروشتییە کە هەنگ دروستی دەکات، بۆ بەخشینی پێکهاتە بە بەرهەمەکان بەکاردێت.",
+   "kmr": "Mûmeke xwezayî ye ku mêş çêdikin, ji bo dayîna avahiyê bi berheman tê bikaranîn.",
+   "ar": "شمع طبيعي يصنعه النحل، يُستخدم لإعطاء المستحضرات قوامها."
+  },
+  "benefits": {
+   "en": "Helps lipsticks, balms and mascaras hold their shape and stay put.",
+   "ckb": "یارمەتی دەدات سووراو، بەڵم و ماسکارا شێوەی خۆیان بپارێزن و بمێننەوە.",
+   "kmr": "Dibe alîkar ku lêvsor, balm û maskara şiklê xwe biparêzin û bimînin.",
+   "ar": "يساعد أحمر الشفاه والبلسم والماسكارا على الحفاظ على شكلها وثباتها."
+  },
+  "precautions": {
+   "en": "Not vegan; generally well tolerated.",
+   "ckb": "ڤیگان نییە؛ بە گشتی کێشەی نییە.",
+   "kmr": "Ne vegan e; bi giştî pirsgirêk çênake.",
+   "ar": "ليس نباتياً؛ ويتحمّله معظم الناس جيداً."
+  }
+ },
+ {
+  "id": "keratin",
+  "type": "protein",
+  "uses": [
+   "hair"
+  ],
+  "aka": "Hydrolyzed Keratin",
+  "name": {
+   "en": "Keratin",
+   "ckb": "کێراتین",
+   "kmr": "Keratîn",
+   "ar": "الكيراتين"
+  },
+  "desc": {
+   "en": "The main protein hair is made of; in products it is usually broken into smaller pieces.",
+   "ckb": "ئەو پرۆتینە سەرەکییەیە کە قژی لێ دروست بووە؛ لە بەرهەمەکاندا زۆرجار بۆ پارچەی بچووکتر دەکرێت.",
+   "kmr": "Proteîna sereke ye ku por jê pêk tê; di berheman de piranî dibe perçeyên biçûktir.",
+   "ar": "البروتين الرئيسي الذي يتكوّن منه الشعر؛ ويُستخدم في المستحضرات غالباً مجزّأً إلى قطع أصغر."
+  },
+  "benefits": {
+   "en": "Used to make hair feel smoother and stronger.",
+   "ckb": "بەکاردێت بۆ ئەوەی قژ لووستر و بەهێزتر هەست بکرێت.",
+   "kmr": "Tê bikaranîn da ku por lûstir û bihêztir were hîskirin.",
+   "ar": "يُستخدم ليبدو الشعر أنعم وأقوى."
+  },
+  "precautions": {
+   "en": "Usually animal-derived; too much protein can make some hair feel stiff.",
+   "ckb": "زۆرجار لە ئاژەڵەوە وەردەگیرێت؛ پرۆتینی زۆر لەوانەیە هەندێک قژ ڕەق بکات.",
+   "kmr": "Piranî ji ajalan tê wergirtin; proteîna zêde dikare hin poran hişk bike.",
+   "ar": "مصدره حيواني في الغالب؛ وكثرة البروتين قد تجعل بعض أنواع الشعر قاسية."
+  }
+ }
+]

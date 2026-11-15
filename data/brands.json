@@ -1,0 +1,437 @@
+[
+ {
+  "id": "covergirl",
+  "name": "CoverGirl",
+  "count": 8
+ },
+ {
+  "id": "dr-dennis-gross",
+  "name": "Dr. Dennis Gross",
+  "count": 8
+ },
+ {
+  "id": "image-skincare",
+  "name": "IMAGE Skincare",
+  "count": 8
+ },
+ {
+  "id": "irene-forte-skincare",
+  "name": "Irene Forte Skincare",
+  "count": 8
+ },
+ {
+  "id": "jolie-impeccable-me",
+  "name": "Jolie. Impeccable Me",
+  "count": 8
+ },
+ {
+  "id": "l-or-al-paris",
+  "name": "L'Oréal Paris",
+  "count": 8
+ },
+ {
+  "id": "lancer-skincare",
+  "name": "Lancer Skincare",
+  "count": 8
+ },
+ {
+  "id": "maybelline",
+  "name": "Maybelline",
+  "count": 8
+ },
+ {
+  "id": "nyx-professional-makeup",
+  "name": "NYX Professional Makeup",
+  "count": 8
+ },
+ {
+  "id": "ouai",
+  "name": "OUAI",
+  "count": 8
+ },
+ {
+  "id": "pai-skincare",
+  "name": "Pai Skincare",
+  "count": 8
+ },
+ {
+  "id": "revision-skincare",
+  "name": "Revision Skincare",
+  "count": 8
+ },
+ {
+  "id": "revlon",
+  "name": "Revlon",
+  "count": 8
+ },
+ {
+  "id": "r-vive",
+  "name": "RéVive",
+  "count": 8
+ },
+ {
+  "id": "sanitas-skincare",
+  "name": "Sanitas Skincare",
+  "count": 8
+ },
+ {
+  "id": "wet-n-wild",
+  "name": "wet n wild",
+  "count": 8
+ },
+ {
+  "id": "yon-ka-paris-skincare",
+  "name": "Yon-Ka Paris Skincare",
+  "count": 8
+ },
+ {
+  "id": "bumble-and-bumble",
+  "name": "Bumble and bumble",
+  "count": 7
+ },
+ {
+  "id": "e-l-f",
+  "name": "e.l.f.",
+  "count": 7
+ },
+ {
+  "id": "mac",
+  "name": "MAC",
+  "count": 7
+ },
+ {
+  "id": "paul-mitchell",
+  "name": "Paul Mitchell",
+  "count": 7
+ },
+ {
+  "id": "pupa-milano",
+  "name": "Pupa Milano",
+  "count": 7
+ },
+ {
+  "id": "redken",
+  "name": "Redken",
+  "count": 7
+ },
+ {
+  "id": "bobbi-brown",
+  "name": "Bobbi Brown",
+  "count": 6
+ },
+ {
+  "id": "living-proof",
+  "name": "Living Proof",
+  "count": 6
+ },
+ {
+  "id": "pureology",
+  "name": "Pureology",
+  "count": 6
+ },
+ {
+  "id": "joico",
+  "name": "Joico",
+  "count": 5
+ },
+ {
+  "id": "milani",
+  "name": "Milani",
+  "count": 5
+ },
+ {
+  "id": "charlotte-tilbury",
+  "name": "Charlotte Tilbury",
+  "count": 4
+ },
+ {
+  "id": "curlsmith",
+  "name": "Curlsmith",
+  "count": 4
+ },
+ {
+  "id": "dior",
+  "name": "Dior",
+  "count": 4
+ },
+ {
+  "id": "fenty-beauty-by-rihanna",
+  "name": "Fenty Beauty by Rihanna",
+  "count": 4
+ },
+ {
+  "id": "clinique",
+  "name": "Clinique",
+  "count": 3
+ },
+ {
+  "id": "drunk-elephant",
+  "name": "Drunk Elephant",
+  "count": 3
+ },
+ {
+  "id": "laneige",
+  "name": "Laneige",
+  "count": 3
+ },
+ {
+  "id": "nars",
+  "name": "NARS",
+  "count": 3
+ },
+ {
+  "id": "peter-thomas-roth",
+  "name": "Peter Thomas Roth",
+  "count": 3
+ },
+ {
+  "id": "rimmel",
+  "name": "Rimmel",
+  "count": 3
+ },
+ {
+  "id": "suntegrity-skincare",
+  "name": "Suntegrity Skincare",
+  "count": 3
+ },
+ {
+  "id": "anastasia-beverly-hills",
+  "name": "Anastasia Beverly Hills",
+  "count": 2
+ },
+ {
+  "id": "balm",
+  "name": "Balm",
+  "count": 2
+ },
+ {
+  "id": "chanel",
+  "name": "Chanel",
+  "count": 2
+ },
+ {
+  "id": "fresh",
+  "name": "fresh",
+  "count": 2
+ },
+ {
+  "id": "kosas",
+  "name": "Kosas",
+  "count": 2
+ },
+ {
+  "id": "l-a-colors",
+  "name": "L.A. Colors",
+  "count": 2
+ },
+ {
+  "id": "l-a-girl",
+  "name": "L.A. Girl",
+  "count": 2
+ },
+ {
+  "id": "olay",
+  "name": "Olay",
+  "count": 2
+ },
+ {
+  "id": "ouidad",
+  "name": "Ouidad",
+  "count": 2
+ },
+ {
+  "id": "sephora-collection",
+  "name": "Sephora Collection",
+  "count": 2
+ },
+ {
+  "id": "sisley-paris",
+  "name": "Sisley Paris",
+  "count": 2
+ },
+ {
+  "id": "supergoop",
+  "name": "Supergoop!",
+  "count": 2
+ },
+ {
+  "id": "tatcha",
+  "name": "Tatcha",
+  "count": 2
+ },
+ {
+  "id": "ulta-beauty-collection",
+  "name": "Ulta Beauty Collection",
+  "count": 2
+ },
+ {
+  "id": "urban-decay",
+  "name": "Urban Decay",
+  "count": 2
+ },
+ {
+  "id": "attitude",
+  "name": "Attitude",
+  "count": 1
+ },
+ {
+  "id": "beaute-de-provence",
+  "name": "Beaute De Provence",
+  "count": 1
+ },
+ {
+  "id": "bread-beauty-supply",
+  "name": "Bread Beauty Supply",
+  "count": 1
+ },
+ {
+  "id": "briogeo",
+  "name": "Briogeo",
+  "count": 1
+ },
+ {
+  "id": "caudalie",
+  "name": "Caudalie",
+  "count": 1
+ },
+ {
+  "id": "city-color",
+  "name": "City Color",
+  "count": 1
+ },
+ {
+  "id": "divi",
+  "name": "Divi",
+  "count": 1
+ },
+ {
+  "id": "eva-nyc",
+  "name": "Eva Nyc",
+  "count": 1
+ },
+ {
+  "id": "fi-ra",
+  "name": "Fièra",
+  "count": 1
+ },
+ {
+  "id": "glo-skin-beauty",
+  "name": "Glo Skin Beauty",
+  "count": 1
+ },
+ {
+  "id": "glossier",
+  "name": "Glossier",
+  "count": 1
+ },
+ {
+  "id": "glow-recipe",
+  "name": "Glow Recipe",
+  "count": 1
+ },
+ {
+  "id": "idun-minerals",
+  "name": "IDUN Minerals",
+  "count": 1
+ },
+ {
+  "id": "ilia",
+  "name": "ILIA",
+  "count": 1
+ },
+ {
+  "id": "innersense-organic-beauty",
+  "name": "Innersense Organic Beauty",
+  "count": 1
+ },
+ {
+  "id": "iris-romeo",
+  "name": "Iris&Romeo",
+  "count": 1
+ },
+ {
+  "id": "it-cosmetics",
+  "name": "IT Cosmetics",
+  "count": 1
+ },
+ {
+  "id": "kristin-ess-hair",
+  "name": "Kristin Ess Hair",
+  "count": 1
+ },
+ {
+  "id": "mally-beauty",
+  "name": "Mally Beauty",
+  "count": 1
+ },
+ {
+  "id": "mineral-fusion",
+  "name": "Mineral Fusion",
+  "count": 1
+ },
+ {
+  "id": "mizon",
+  "name": "Mizon",
+  "count": 1
+ },
+ {
+  "id": "moerie",
+  "name": "Moerie",
+  "count": 1
+ },
+ {
+  "id": "nudestix",
+  "name": "Nudestix",
+  "count": 1
+ },
+ {
+  "id": "physicians-formula",
+  "name": "Physicians Formula",
+  "count": 1
+ },
+ {
+  "id": "pixi",
+  "name": "Pixi",
+  "count": 1
+ },
+ {
+  "id": "refy",
+  "name": "REFY",
+  "count": 1
+ },
+ {
+  "id": "rizos-curls",
+  "name": "Rizos Curls",
+  "count": 1
+ },
+ {
+  "id": "sexy-hair",
+  "name": "Sexy Hair",
+  "count": 1
+ },
+ {
+  "id": "the-body-shop",
+  "name": "The Body Shop",
+  "count": 1
+ },
+ {
+  "id": "the-inkey-list",
+  "name": "The INKEY List",
+  "count": 1
+ },
+ {
+  "id": "well-people",
+  "name": "Well People",
+  "count": 1
+ },
+ {
+  "id": "wella",
+  "name": "Wella",
+  "count": 1
+ },
+ {
+  "id": "winky-lux",
+  "name": "Winky Lux",
+  "count": 1
+ }
+]
